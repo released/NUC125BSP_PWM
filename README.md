@@ -7,8 +7,8 @@ update @ 2020/11/19
 
 2. by use UART temrinal , press digit 0 ~ a , to switch each channel duty 
 
-![image](https://github.com/released/NUC125BSP_PWM/blob/master/scope_25_50.jpg)
+![image](https://github.com/released/NUC125BSP_PWM/blob/main/scope_25_50.jpg)
 
-![image](https://github.com/released/NUC125BSP_PWM/blob/master/scope_75_0.jpg)
+![image](https://github.com/released/NUC125BSP_PWM/blob/main/scope_75_0.jpg)
 
 
